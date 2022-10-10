@@ -5,7 +5,7 @@ struct AVLNode
 {
     int key;
     int bf; // bf = height(right subtree) - height(left subtree)
-    struct AVLNode *leftChild;
+    struct AVLNode *leftChild; // left and right child pointer.
     struct AVLNode *rightChild;
 };
 

@@ -11,3 +11,5 @@ Topics to be covered (so far) :
 6. Multiway Search Tree
 7. Red-Black Tree
 8. Hashing
+9. DFS/BFS
+10. Strongly Connected Components
